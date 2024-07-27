@@ -10,6 +10,10 @@ This project involves creating a dashboard using Power BI to help a company cont
 - `sales_dashboard.pbix`: The Power BI file used to create the dashboard.
 - `screenshots`: Contains screenshots of the dashboard for quick reference.
 
+## Dashboard 
+![Dashboard 1](screenshots/1.png)
+![Dashboard 2](screenshots/2.png)
+
 ## Features
 - **Total Sales**: Displays the total sales for the selected supermarket and product category.
 - **Sales by Customer Type**: Shows the distribution of sales between normal and member customers.
@@ -22,18 +26,10 @@ This project involves creating a dashboard using Power BI to help a company cont
 2. **Select Product Category**: Filter the sales data by selecting different product categories.
 3. **Analyze the Charts**: Use the pie charts to understand sales distribution by customer type and gender. Use the line chart to observe daily sales trends.
 
-## Screenshots
-### Dashboard Overview
-![Dashboard 1](screenshots/1.png)
-![Dashboard 2](screenshots/2.png)
 
 ## Conclusion
 This dashboard helps the company keep track of their sales performance across different supermarkets and product categories. It provides easy-to-understand visualizations that can aid in making data-driven decisions to improve sales strategies.
 
-## Future Enhancements
-- Add more filters for detailed analysis.
-- Include monthly and yearly sales trends.
-- Implement predictive analytics for future sales forecasting.
 
-## Author
-- [Zakariae BAHARI](https://github.com/Zakariae-BAHARI)
+
+
