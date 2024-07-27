@@ -14,17 +14,17 @@ This project involves creating a dashboard using Power BI to help a company cont
 ![Dashboard 1](screenshots/1.png)
 ![Dashboard 2](screenshots/2.png)
 
+## How to use it
+1. **Select Supermarket**: Choose one of the three supermarkets (A, B, or C) to view its sales data.
+2. **Select Product Category**: Filter the sales data by selecting different product categories.
+3. **Analyze the Charts**: Use the pie charts to understand sales distribution by customer type and gender. Use the line chart to observe daily sales trends.
+   
 ## Features
 - **Total Sales**: Displays the total sales for the selected supermarket and product category.
 - **Sales by Customer Type**: Shows the distribution of sales between normal and member customers.
 - **Sales by Gender**: Provides insights into sales distribution between male and female customers.
 - **Sales by Product Category**: Allows filtering sales data by different product categories like electronic accessories, fashion accessories, food and beverages, etc.
 - **Sales by Day**: Shows daily sales trends to help identify peak sales days and periods of low sales.
-
-## How to Use
-1. **Select Supermarket**: Choose one of the three supermarkets (A, B, or C) to view its sales data.
-2. **Select Product Category**: Filter the sales data by selecting different product categories.
-3. **Analyze the Charts**: Use the pie charts to understand sales distribution by customer type and gender. Use the line chart to observe daily sales trends.
 
 
 ## Conclusion
